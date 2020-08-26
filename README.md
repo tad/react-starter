@@ -8,5 +8,7 @@ Doing stuff this way allows you to:
 * use `npm start` to start a local webserver, opening a web page, and will watch for changes and rebuild.
 
 To use:
-`npm run build`
-`npm start`
+```
+npm run build
+npm start
+```
